@@ -1,0 +1,79 @@
+/*and here is where we start*/
+h1,h2,h3,h4,p,li{
+    font-family: sans-serif;
+}
+h1,h2,h3,h4{
+    color:rgb(14, 164, 164);
+}
+
+h1{
+    margin-top: 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-style: italic;   
+}
+p{
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+li{
+    font-size: 15px;
+}
+#autor{
+    font-style: italic;
+    font-size: 12px;
+}
+
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 16px;
+}
+h4{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer p{ 
+    font-size: 15px;
+}
+
+.posts{
+    list-style: none;
+}
+.cab{
+    background-color: wheat ;
+}
+.aside{
+    border: 5px solid #1098ad;
+}
+/*.para class; #para id; apenas o nome para tag*/
+
+.navbar a{
+    text-decoration: none;    
+    color: #1098ad;
+    font-size: 12px;
+    
+}
+
+.cabeçalho{
+    background:#d4e2e4;
+    border-top: 5px solid #1098ad;
+    padding: 10px 10px;
+}
+
+.autores{
+    color: rgb(181, 181, 9);
+    font-size: 15px;
+    text-shadow:5px 5px  5px rgb(143, 150, 4);
+}
+
+.listaD{
+    line-height: 3;
+}
