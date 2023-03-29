@@ -1,4 +1,4 @@
-/*and here is where we start*/
+
 h1,h2,h3,h4,p,li{
     font-family: sans-serif;
 }
@@ -53,7 +53,7 @@ footer p{
 .aside{
     border: 5px solid #1098ad;
 }
-/*.para class; #para id; apenas o nome para tag*/
+
 
 .navbar a{
     text-decoration: none;    
@@ -74,6 +74,6 @@ footer p{
     text-shadow:5px 5px  5px rgb(143, 150, 4);
 }
 
-.listaD{
+.listaD{/*lista_desordenada*/
     line-height: 3;
 }
